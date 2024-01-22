@@ -1,0 +1,16 @@
+.puppyTitleName {
+    border: 2px solid pink;
+    background-color: blue;
+}
+
+.puppy {
+    border: 1px solid white;
+    padding: 20px;
+}
+
+.listOfPuppies {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
